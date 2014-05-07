@@ -2,11 +2,11 @@ import java.util.Random;
 
 public class dice 
 {
-	int num1;//value
+	int num1;
 	int total;
-	int num2;//newValue
+	int num2;
 	int Bounces;
-	int num3;//newBounces
+	int num3;
 	
 	static Random random = new Random();
 	
